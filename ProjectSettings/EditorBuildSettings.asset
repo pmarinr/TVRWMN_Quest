@@ -6,15 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_TVRWMN/Scenes/Quest.unity
-    guid: 87f1937926651724586acc8842735ea6
-  - enabled: 1
     path: Assets/_TVRWMN/Scenes/LoaderVR.unity
     guid: 1e341dbc38f78cc4ca816a2ec33af3be
   - enabled: 1
     path: Assets/_TVRWMN/Scenes/Objetos.unity
     guid: f84ab60995076274db167a8f00c2db5c
   - enabled: 1
-    path: Assets/_TVRWMN/Scenes/PC.unity
-    guid: c99bb5b4e3f4a0f4f8202770b828a110
+    path: Assets/_TVRWMN/Scenes/Escenario1.unity
+    guid: 8f463f2cc1fa3874fb3837ea80447c7e
   m_configObjects: {}

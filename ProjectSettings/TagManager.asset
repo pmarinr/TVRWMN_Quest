@@ -15,6 +15,7 @@ TagManager:
   - Espada
   - HideByLooking
   - Interactable
+  - Level
   layers:
   - Default
   - TransparentFX
