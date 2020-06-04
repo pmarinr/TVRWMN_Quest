@@ -16,6 +16,14 @@ TagManager:
   - HideByLooking
   - Interactable
   - Level
+  - Laboratorio
+  - Baul
+  - Biblioteca
+  - Escritorio
+  - Postprocesing
+  - TablaOuija
+  - Pista
+  - Pizarra
   layers:
   - Default
   - TransparentFX
@@ -27,7 +35,7 @@ TagManager:
   - 
   - Ghost
   - 
-  - 
+  - TablaOuija
   - 
   - 
   - 
