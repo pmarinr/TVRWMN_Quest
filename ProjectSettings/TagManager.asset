@@ -24,6 +24,9 @@ TagManager:
   - TablaOuija
   - Pista
   - Pizarra
+  - PlayerLinterna
+  - PlayerManoDch
+  - PlayerManoIzq
   layers:
   - Default
   - TransparentFX
